@@ -79,3 +79,6 @@ ORDER BY daily_change_pct DESC;
  AAPL   | 2026-03-27 |      248.80 |            -2.01
  TSLA   | 2026-03-27 |      361.83 |            -2.13
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
